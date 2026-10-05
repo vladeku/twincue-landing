@@ -7,6 +7,8 @@ script next to the camera while you record. Served by GitHub Pages from `main`.
 - `privacy/` and `terms/` are the privacy policy and the terms. The app and its store listing
   link to these two addresses. Their source is `docs/legal/` in the app repository: change the
   text there first, then here.
+- `support/` is the support page with the contact address. The store listing's Support URL
+  points to it.
 - `404.html` is the page GitHub Pages serves for any other address.
 
 ## The OG image
